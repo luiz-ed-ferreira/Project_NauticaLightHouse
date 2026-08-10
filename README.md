@@ -1,1 +1,5 @@
+#Project_NauticaLightHouse
+
 Continuous improvement project developed as part of the selection process for Indicium AI's Lighthouse Program, based on a fictional e-commerce case for Nautica. The project involved data analysis, identification of improvement opportunities, and the application of continuous improvement concepts to support decision-making, using Python and SQL.
+
+#Python version 3.12.13
