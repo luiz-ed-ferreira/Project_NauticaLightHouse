@@ -1,0 +1,5 @@
+#Environment
+.venv_nautica/
+
+#Datasets
+Dataset/
