@@ -1,4 +1,4 @@
--- Schema gerado automaticamente
+-- Schema gerado automaticamente LH Nautical
 
 CREATE TABLE "addresses" (
     "id" TEXT,

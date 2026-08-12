@@ -1,5 +1,8 @@
 #Environment
 .venv_nautica/
 
+#DB config
+Config/
+
 #Datasets
 Dataset/
