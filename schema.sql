@@ -57,7 +57,7 @@ CREATE TABLE "customers" (
 CREATE TABLE "employees" (
     "id" TEXT,
     "full_name" TEXT,
-    "cpf" INTEGER,
+    "cpf" TEXT,
     "email" TEXT,
     "role" TEXT,
     "primary_location_id" TEXT,
