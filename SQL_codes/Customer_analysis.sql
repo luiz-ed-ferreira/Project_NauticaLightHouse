@@ -76,7 +76,6 @@ categorias_consumidas AS (
         c.name
 )
 
-
 --Select clientes elite
 --SELECT *
 --FROM clientes_elite;
