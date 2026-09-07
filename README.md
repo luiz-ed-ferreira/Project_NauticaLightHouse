@@ -25,6 +25,7 @@ Completed [approved]
 - WSL Linux/Ubuntu for Windows 11 System
 - Python version 3.12.13
 - PostgreSQL version 18.6
+- Power BI version 2.157.879
 
 > Attention! Consult the requirements.txt file for more information about python libraries used.
 
