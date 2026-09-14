@@ -10,15 +10,14 @@
 
 Completed [approved]
 
-- [x] Question 1
-- [x] Question 2
-- [x] Question 3
-- [x] Question 4
-- [x] Question 5
-- [x] Question 6
-- [x] Question 7
-
-> Attention! Consult the main.py file for more information about the project questions.
+- [x] Question 1 - main_analyses.ipynb -> data/orders.db
+- [x] Question 2 - schemas.ipynb -> sql_scripts/schemas.sql
+- [x] Question 3 - load.ipynb
+- [x] Question 4 - sql_scripts/customer_analysis.sql
+- [x] Question 5 - sql_scripts/calendar_dimension.sql
+- [x] Question 6 - demand.ipynb
+- [x] Question 7 - recomendation.ipynb
+- [x] Final Question - dashboard_LH_Nautical.pbix
 
 ### Prerequisites & used softwares
 
