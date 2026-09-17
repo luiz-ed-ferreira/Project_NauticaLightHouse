@@ -19,6 +19,8 @@ Completed [approved]
 - [x] Question 7 - recomendation.ipynb
 - [x] Final Question - dashboard_LH_Nautical.pbix
 
+![alt text](img/img_BI.png)
+
 ### Prerequisites & used softwares
 
 - WSL Linux/Ubuntu for Windows 11 System
