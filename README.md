@@ -10,7 +10,7 @@
 
 Completed [approved]
 
-- [x] Question 1 - main_analyses.ipynb -> data/orders.db
+- [x] Question 1 - notebooks/main_analyses.ipynb -> data/orders.db
 - [x] Question 2 - notebooks/schemas.ipynb -> sql_scripts/schemas.sql
 - [x] Question 3 - notebooks/load.ipynb
 - [x] Question 4 - sql_scripts/customer_analysis.sql
