@@ -11,13 +11,13 @@
 Completed [approved]
 
 - [x] Question 1 - main_analyses.ipynb -> data/orders.db
-- [x] Question 2 - schemas.ipynb -> sql_scripts/schemas.sql
-- [x] Question 3 - load.ipynb
+- [x] Question 2 - notebooks/schemas.ipynb -> sql_scripts/schemas.sql
+- [x] Question 3 - notebooks/load.ipynb
 - [x] Question 4 - sql_scripts/customer_analysis.sql
 - [x] Question 5 - sql_scripts/calendar_dimension.sql
-- [x] Question 6 - demand.ipynb
-- [x] Question 7 - recomendation.ipynb
-- [x] Final Question - dashboard_LH_Nautical.pbix
+- [x] Question 6 - notebooks/demand.ipynb
+- [x] Question 7 - notebooks/recomendation.ipynb
+- [x] Final Question - dashboards/dashboard_LH_Nautical.pbix
 
 ![alt text](img/img_BI.png)
 
