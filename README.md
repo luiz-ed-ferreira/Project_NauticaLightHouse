@@ -19,6 +19,8 @@ Completed [approved]
 - [x] Question 7 - notebooks/recomendation.ipynb
 - [x] Final Question - dashboards/dashboard_LH_Nautical.pbix
 
+### Final Dashboard
+
 ![alt text](img/img_BI.png)
 
 ### Prerequisites & used softwares
