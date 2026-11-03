@@ -1,14 +1,14 @@
 # Project LH Nautical - Indicium AI's Lighthouse Program
 
-### Project overview
+### Project Overview
 
 > A Continuous improvement project developed as part of the selection process for Indicium AI's Lighthouse Program, based on a fictional e-commerce case for LH Nautical. The project involved data analysis, identification of improvement opportunities, and the application of continuous improvement concepts to support decision-making, using Python, Power BI and SQL.
 
 > Attention! Please note that this notebook is partially written in Brazilian Portuguese, as it was developed as a test project to evaluate my skills as part of the Indicium AI program selection process.
 
-### Status & improvements
+### Status & Improvements
 
-Completed [approved]
+Completed [Approved]
 
 - [x] Question 1 - notebooks/main_analyses.ipynb -> data/orders.db
 - [x] Question 2 - notebooks/schemas.ipynb -> sql_scripts/schemas.sql
@@ -21,9 +21,11 @@ Completed [approved]
 
 ### Final Dashboard
 
+> As part of the project's final deliverable, a commercial dashboard was created for the management team.
+
 ![alt text](img/img_BI.png)
 
-### Prerequisites & used softwares
+### Prerequisites & Softwares
 
 - WSL Linux/Ubuntu for Windows 11 System
 - Python version 3.12.13
