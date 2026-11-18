@@ -3,7 +3,7 @@
 ### Project Overview
 
 <p align="center">
-  <img src="img/anchor_icon.png" alt="Anchor Icon">
+  <img src="img/anchor_icon.png" alt="Anchor Icon"  height="200" weight="300">
 </p>
 
 > A Continuous improvement project developed as part of the selection process for Indicium AI's Lighthouse Program, based on a fictional e-commerce case for LH Nautical. The project involved data analysis, identification of improvement opportunities, and the application of continuous improvement concepts to support decision-making, using Python, Power BI and SQL.
